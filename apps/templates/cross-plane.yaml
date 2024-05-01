@@ -11,7 +11,7 @@ metadata:
 spec:
   project: default
   source:
-    path: quarkus-demo/quarkus-demo-apps/crossplane/
+    path: quarkus-demo/quarkus-demo-apps/crossplane
     repoURL: 'https://github.com/rhtevan/quarkus-demo.git'
     targetRevision: HEAD
   destination:
